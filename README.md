@@ -1,5 +1,12 @@
 # restaurant_management
 
+### KELOMPOK RESTORAN
+```
+1102200031 Galang Rambu Ramadhan
+1102200032 Razanafi Singgih
+1102200033 Ramadhan Noviandi Putra
+```
+
 ## Project setup
 ```
 npm install
@@ -19,6 +26,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
